@@ -1,0 +1,51 @@
+*{
+    font-family: 'Comic Sans MS';
+}
+body{
+    background-color: #297667; 
+      
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+#styling{
+    
+    border: 2px;
+    border-radius: 10px;
+    width: 45%;
+    height: 500px;
+    margin: 10vh auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: white;
+    background-color: #9eddd1;
+    box-shadow: 0 0 0.5rem #78d0bf;
+}
+
+#guessField{
+    line-height: 30px;
+    width: 195px;
+    height: 45px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: #f5ffff;
+}
+
+.buttons{
+    line-height: 30px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    clear: both;
+    background-color: #f5ffff;
+}
