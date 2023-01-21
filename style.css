@@ -14,18 +14,16 @@ h2{
 }
 
 #styling{
-    
-    border: 2px;
-    border-radius: 10px;
-    width: 45%;
-    height: 500px;
+    width: 40%;
     margin: 10vh auto;
+    min-height: 80vh;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    box-shadow: white;
     background-color: #9eddd1;
+    border: 2px;
+    border-radius: 10px;
     box-shadow: 0 0 0.5rem #78d0bf;
 }
 
@@ -37,15 +35,16 @@ h2{
     text-align: center;
     margin-top: 10px;
     background-color: #f5ffff;
+    border: 2.5px solid #074137;
 }
 
 .buttons{
     line-height: 30px;
     width: 200px;
     height: 50px;
-    border-radius: 10px;
-    cursor: pointer;
     margin-top: 10px;
-    clear: both;
+    cursor: pointer;
     background-color: #f5ffff;
+    border: 2.5px solid #074137;
+    border-radius: 10px;
 }
