@@ -1,8 +1,6 @@
 # NumberGuessingGame
 You can play the game here: [Number Guessing Game](https://NumberGuessingGame.kriszeynev1.repl.co){:target="_blank"}.
-New	[sdsdsdsd]{:target="https://NumberGuessingGame.kriszeynev1.repl.co"}
-
-
+New	[demo11]([https://example.com](https://NumberGuessingGame.kriszeynev1.repl.co))
 
 
 It's a number guessing game where the user is trying to guess random number within a certain range of numbers, that your opponent(the computer) has come up with. 
