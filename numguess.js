@@ -25,7 +25,7 @@ document.getElementById("submitBtn").onclick = function(){
 
 }
 
-document.getElementById("resetBtn").onclick = function(){
+document.getElementById("restartBtn").onclick = function(){
     answer = Math.floor(Math.random()*100);
     document.getElementById("guessField").value = "";
     res.textContent = "";
