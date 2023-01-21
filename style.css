@@ -1,9 +1,13 @@
 *{
     font-family: 'Comic Sans MS';
+    color: black;
 }
 body{
-    background-color: #297667; 
-      
+    background-color: #297667;    
+}
+
+.startText{
+    text-align: center;
 }
 
 h1{
@@ -26,7 +30,11 @@ h2{
     border-radius: 10px;
     box-shadow: 0 0 0.5rem #78d0bf;
 }
-
+@media only screen and (max-width: 600px) {
+    #styling {
+        width: 60%;
+    }
+  }
 #guessField{
     line-height: 30px;
     width: 195px;
